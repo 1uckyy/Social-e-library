@@ -1,0 +1,3 @@
+[submodule "social-e-library-client"]
+	path = social-e-library-client
+	url = http://github.com/1uckyy/social-e-library-client
